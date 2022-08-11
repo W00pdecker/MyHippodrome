@@ -1,0 +1,110 @@
+2022-08-11 18:51:21,888 DEBUG Horse [main] Horse: horse created, name: [Bucephalus], speed: [2.4]
+2022-08-11 18:51:21,891 DEBUG Horse [main] Horse: horse created, name: [Ace of spades], speed: [2.5]
+2022-08-11 18:51:21,892 DEBUG Horse [main] Horse: horse created, name: [Zephyr], speed: [2.6]
+2022-08-11 18:51:21,892 DEBUG Horse [main] Horse: horse created, name: [Firestarter], speed: [2.7]
+2022-08-11 18:51:21,892 DEBUG Horse [main] Horse: horse created, name: [Lobster], speed: [2.8]
+2022-08-11 18:51:21,892 DEBUG Horse [main] Horse: horse created, name: [Pegasus], speed: [2.9]
+2022-08-11 18:51:21,892 DEBUG Horse [main] Horse: horse created, name: [Cherry], speed: [3.0]
+2022-08-11 18:51:21,894 DEBUG Hippodrome [main] Creating hippodrome, horses: 7
+2022-08-11 18:51:21,894 INFO Main [main] Race started. Number of contestans - 7
+2022-08-11 18:51:22,102 INFO Main [main] Race finished. Winner is: Cherry
+2022-08-11 18:59:08,838 DEBUG Horse [main] Horse: horse created, name: [Bucephalus], speed: [2.4]
+2022-08-11 18:59:08,842 DEBUG Horse [main] Horse: horse created, name: [Ace of spades], speed: [2.5]
+2022-08-11 18:59:08,842 DEBUG Horse [main] Horse: horse created, name: [Zephyr], speed: [2.6]
+2022-08-11 18:59:08,842 DEBUG Horse [main] Horse: horse created, name: [Firestarter], speed: [2.7]
+2022-08-11 18:59:08,843 DEBUG Horse [main] Horse: horse created, name: [Lobster], speed: [2.8]
+2022-08-11 18:59:08,843 DEBUG Horse [main] Horse: horse created, name: [Pegasus], speed: [2.9]
+2022-08-11 18:59:08,843 DEBUG Horse [main] Horse: horse created, name: [Cherry], speed: [3.0]
+2022-08-11 18:59:08,844 DEBUG Hippodrome [main] Creating hippodrome, horses: 7
+2022-08-11 18:59:08,845 INFO Main [main] Race started. Number of contestans - 7
+2022-08-11 18:59:09,064 INFO Main [main] Race finished. Winner is: Ace of spades
+2022-08-11 19:23:02,115 DEBUG Horse [main] Horse: horse created, name: [Bucephalus], speed: [2.4]
+2022-08-11 19:23:02,120 DEBUG Horse [main] Horse: horse created, name: [Ace of spades], speed: [2.5]
+2022-08-11 19:23:02,120 DEBUG Horse [main] Horse: horse created, name: [Zephyr], speed: [2.6]
+2022-08-11 19:23:02,120 DEBUG Horse [main] Horse: horse created, name: [Firestarter], speed: [2.7]
+2022-08-11 19:23:02,120 DEBUG Horse [main] Horse: horse created, name: [Lobster], speed: [2.8]
+2022-08-11 19:23:02,120 DEBUG Horse [main] Horse: horse created, name: [Pegasus], speed: [2.9]
+2022-08-11 19:23:02,121 DEBUG Horse [main] Horse: horse created, name: [Cherry], speed: [3.0]
+2022-08-11 19:23:02,122 DEBUG Hippodrome [main] Creating hippodrome, horses: 7
+2022-08-11 19:23:02,123 INFO  Main [main] Race started. Number of contestans - 7
+2022-08-11 19:23:02,328 INFO  Main [main] Race finished. Winner is: Cherry
+2022-08-11 19:24:55,580 DEBUG Horse [main] Horse: horse created, name: [Bucephalus], speed: [2.4]
+2022-08-11 19:24:55,583 DEBUG Horse [main] Horse: horse created, name: [Ace of spades], speed: [2.5]
+2022-08-11 19:24:55,583 DEBUG Horse [main] Horse: horse created, name: [Zephyr], speed: [2.6]
+2022-08-11 19:24:55,584 DEBUG Horse [main] Horse: horse created, name: [Firestarter], speed: [2.7]
+2022-08-11 19:24:55,584 DEBUG Horse [main] Horse: horse created, name: [Lobster], speed: [2.8]
+2022-08-11 19:24:55,584 DEBUG Horse [main] Horse: horse created, name: [Pegasus], speed: [2.9]
+2022-08-11 19:24:55,584 DEBUG Horse [main] Horse: horse created, name: [Cherry], speed: [3.0]
+2022-08-11 19:24:55,585 DEBUG Hippodrome [main] Creating hippodrome, horses: 7
+2022-08-11 19:24:55,585 INFO  Main [main] Race started. Number of contestans - 7
+2022-08-11 19:24:55,795 INFO  Main [main] Race finished. Winner is: Cherry
+2022-08-11 19:25:41,746 DEBUG Horse: 
+
+2022-08-11 19:25:41,750 DEBUG Horse: 
+
+2022-08-11 19:25:41,750 DEBUG Horse: 
+
+2022-08-11 19:25:41,750 DEBUG Horse: 
+
+2022-08-11 19:25:41,751 DEBUG Horse: 
+
+2022-08-11 19:25:41,751 DEBUG Horse: 
+
+2022-08-11 19:25:41,751 DEBUG Horse: 
+
+2022-08-11 19:25:41,752 DEBUG Hippodrome: 
+
+2022-08-11 19:25:41,752 INFO  Main: 
+
+2022-08-11 19:25:41,963 INFO  Main: 
+
+2022-08-11 19:26:34,004 DEBUG Horse [main] 
+
+2022-08-11 19:26:34,010 DEBUG Horse [main] 
+
+2022-08-11 19:26:34,010 DEBUG Horse [main] 
+
+2022-08-11 19:26:34,011 DEBUG Horse [main] 
+
+2022-08-11 19:26:34,011 DEBUG Horse [main] 
+
+2022-08-11 19:26:34,013 DEBUG Horse [main] 
+
+2022-08-11 19:26:34,013 DEBUG Horse [main] 
+
+2022-08-11 19:26:34,015 DEBUG Hippodrome [main] 
+
+2022-08-11 19:26:34,015 INFO  Main [main] 
+
+2022-08-11 19:26:34,225 INFO  Main [main] 
+
+2022-08-11 19:27:24,189 DEBUG Horse Horse: horse created, name: [Bucephalus], speed: [2.4]
+2022-08-11 19:27:24,193 DEBUG Horse Horse: horse created, name: [Ace of spades], speed: [2.5]
+2022-08-11 19:27:24,194 DEBUG Horse Horse: horse created, name: [Zephyr], speed: [2.6]
+2022-08-11 19:27:24,194 DEBUG Horse Horse: horse created, name: [Firestarter], speed: [2.7]
+2022-08-11 19:27:24,194 DEBUG Horse Horse: horse created, name: [Lobster], speed: [2.8]
+2022-08-11 19:27:24,194 DEBUG Horse Horse: horse created, name: [Pegasus], speed: [2.9]
+2022-08-11 19:27:24,194 DEBUG Horse Horse: horse created, name: [Cherry], speed: [3.0]
+2022-08-11 19:27:24,195 DEBUG Hippodrome Creating hippodrome, horses: 7
+2022-08-11 19:27:24,195 INFO  Main Race started. Number of contestans - 7
+2022-08-11 19:27:24,416 INFO  Main Race finished. Winner is: Pegasus
+2022-08-11 19:29:39,386 DEBUG Horse: Horse created, name: [Bucephalus], speed: [2.4]
+2022-08-11 19:29:39,392 DEBUG Horse: Horse created, name: [Ace of spades], speed: [2.5]
+2022-08-11 19:29:39,392 DEBUG Horse: Horse created, name: [Zephyr], speed: [2.6]
+2022-08-11 19:29:39,392 DEBUG Horse: Horse created, name: [Firestarter], speed: [2.7]
+2022-08-11 19:29:39,393 DEBUG Horse: Horse created, name: [Lobster], speed: [2.8]
+2022-08-11 19:29:39,393 DEBUG Horse: Horse created, name: [Pegasus], speed: [2.9]
+2022-08-11 19:29:39,393 DEBUG Horse: Horse created, name: [Cherry], speed: [3.0]
+2022-08-11 19:29:39,409 DEBUG Hippodrome: Creating hippodrome, horses: 7
+2022-08-11 19:29:39,410 INFO  Main: Race started. Number of contestans - 7
+2022-08-11 19:29:39,623 INFO  Main: Race finished. Winner is: Cherry
+2022-08-11 19:29:50,735 DEBUG Horse: Horse created, name: [Bucephalus], speed: [2.4]
+2022-08-11 19:29:50,739 DEBUG Horse: Horse created, name: [Ace of spades], speed: [2.5]
+2022-08-11 19:29:50,739 DEBUG Horse: Horse created, name: [Zephyr], speed: [2.6]
+2022-08-11 19:29:50,739 DEBUG Horse: Horse created, name: [Firestarter], speed: [2.7]
+2022-08-11 19:29:50,740 DEBUG Horse: Horse created, name: [Lobster], speed: [2.8]
+2022-08-11 19:29:50,740 DEBUG Horse: Horse created, name: [Pegasus], speed: [2.9]
+2022-08-11 19:29:50,740 DEBUG Horse: Horse created, name: [Cherry], speed: [3.0]
+2022-08-11 19:29:50,741 DEBUG Hippodrome: Creating hippodrome, horses: 7
+2022-08-11 19:29:50,741 INFO  Main: Race started. Number of contestans - 7
+2022-08-11 19:29:50,952 INFO  Main: Race finished. Winner is: Lobster
